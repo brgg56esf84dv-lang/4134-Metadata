@@ -10,8 +10,8 @@ workflows:
         # тут мають лежати APPSTORE_ISSUER_ID, APPSTORE_KEY_ID, APPSTORE_P8, APPLE_EMAIL
         - appstore-connect
       vars:
-        IOS_BUNDLE_ID: com.osovskaproj.app
-        APP_NAME: Friendly Quesiro
+        IOS_BUNDLE_ID: com.kornettaproj.app
+        APP_NAME: Planaro
 
     scripts:
       - name: Print working dir & contents
