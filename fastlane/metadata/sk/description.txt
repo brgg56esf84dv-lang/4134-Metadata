@@ -1,0 +1,4 @@
+Budujte si lepšie návyky spoločne – ako tím.
+
+Táto aplikácia je určená pre malé tímy, rodiny, priateľov alebo páry, ktoré chcú zostať konzistentné, motivované a zodpovedné – bez „hlavného“ používateľa.
+Aplikácia komunikuje s tímom ako celkom, nie s jednotlivcami.

@@ -1,0 +1,4 @@
+Budujcie lepsze nawyki razem — jako zespół.
+
+Ta aplikacja jest przeznaczona dla małych zespołów, rodzin, przyjaciół lub par, które chcą zachować spójność, motywację i odpowiedzialność — bez „głównego” użytkownika.
+Aplikacja komunikuje się z zespołem jako całością, a nie z poszczególnymi osobami.

@@ -1,0 +1,4 @@
+Crea millors hàbits junts, com a equip.
+
+Aquesta aplicació està dissenyada per a equips petits, famílies, amics o parelles que volen mantenir-se constants, motivats i responsables, sense un usuari "principal".
+L'aplicació es comunica amb l'equip en conjunt, no amb individus individuals.

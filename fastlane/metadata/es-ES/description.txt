@@ -1,0 +1,4 @@
+Desarrollen mejores hábitos juntos, como equipo.
+
+Esta aplicación está diseñada para equipos pequeños, familias, amigos o parejas que desean mantener la constancia, la motivación y la responsabilidad, sin un usuario principal.
+La aplicación se comunica con el equipo en su conjunto, no individualmente.

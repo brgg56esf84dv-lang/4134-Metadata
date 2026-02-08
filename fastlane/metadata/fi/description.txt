@@ -1,0 +1,4 @@
+Rakentakaa parempia tapoja yhdessä – tiiminä.
+
+Tämä sovellus on suunniteltu pienille tiimeille, perheille, ystäville tai pariskunnille, jotka haluavat pysyä johdonmukaisina, motivoituneina ja vastuullisina – ilman "pääkäyttäjää".
+Sovellus kommunikoi koko tiimin, ei yksilöiden, kanssa.
